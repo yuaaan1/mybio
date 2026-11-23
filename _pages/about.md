@@ -36,9 +36,10 @@ description: Computer Science and Technology undergraduate at Beijing University
 
 **Ph.D., Beijing University of Posts and Telecommunications**
 
-- Provisionally admitted, with an expected start in September 2027
-- Joint doctoral training with ModelBest
-- Advisors — Zhao Kang and Zhai Jianwang
+- Provisionally admitted, with an expected start in September 2027.
+- Joint doctoral training with **ModelBest** (co-founded by Prof. Zhiyuan Liu of THUNLP at Tsinghua University).
+- **Industry doctoral advisor** — Chaojun Xiao, Chief Scientist for Large Language Models at ModelBest.
+- **University advisors** — Kang Zhao and Jianwang Zhai.
 
 **Undergraduate Studies in Computer Science and Technology, Beijing University of Posts and Telecommunications**
 
